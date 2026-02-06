@@ -1,0 +1,13 @@
+gradio
+numpy
+scipy
+pandas
+scikit-learn
+
+transformers
+sentence-transformers
+chromadb
+
+torch
+pickle
+requests
