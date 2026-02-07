@@ -21,7 +21,7 @@ An intelligent system that evaluates the credibility of news articles by combini
 - Memory-driven improvements (ChromaDB)
 
 # Hugging Face Spaces Deployed LINK 
-((HF Deployed LINK)[https://huggingface.co/spaces/Sowmya135/AI-News-Credibility-Analyzer])
+([HF Deployed LINK](https://huggingface.co/spaces/Sowmya135/AI-News-Credibility-Analyzer))
 
 ## Features
 - Fake vs Real News Classification
