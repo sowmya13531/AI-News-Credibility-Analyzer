@@ -1,26 +1,13 @@
 gradio
 numpy
-scipy
 pandas
 scikit-learn
-
-transformers
+scipy
+nltk
 spacy
 torch
+transformers
 sentence-transformers
-
-joblib
-
-# LLM & Hugging Face
-sentencepiece
-accelerate
-
 chromadb
-
-torch
-wikipedia-api
-requests
-
-# Utilities
-regex
-tqdm
+accelerate
+joblib
