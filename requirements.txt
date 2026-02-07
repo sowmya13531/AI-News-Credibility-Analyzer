@@ -5,9 +5,23 @@ pandas
 scikit-learn
 
 transformers
+spacy
+torch
 sentence-transformers
+
+joblib
+
+# LLM & Hugging Face
+sentencepiece
+accelerate
+
 chromadb
 
 torch
 pickle
+wikipedia-api
 requests
+
+# Utilities
+regex
+tqdm
