@@ -18,7 +18,6 @@ accelerate
 chromadb
 
 torch
-pickle
 wikipedia-api
 requests
 
