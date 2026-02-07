@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import spacy
 try:
     spacy.load("en_core_web_sm")
@@ -6,6 +7,8 @@ except:
     os.system("python -m spacy download en_core_web_sm")
 
 
+=======
+>>>>>>> 2feedb7dcbe1de675e9a6b293309e91dc5b7597b
 import gradio as gr
 import pickle
 from scipy.sparse import hstack
@@ -16,9 +19,12 @@ from modules.llm_reasoner import llm_reason
 from modules.chroma_memory import store_memory, retrieve_similar
 from modules.external_evidence import external_evidence_analysis
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 2feedb7dcbe1de675e9a6b293309e91dc5b7597b
 # ------------------ Load ML Artifacts ------------------
 model = pickle.load(open("models(pkl)/model (4).pkl", "rb"))
 tfidf = pickle.load(open("models(pkl)/tfidf (1).pkl", "rb"))

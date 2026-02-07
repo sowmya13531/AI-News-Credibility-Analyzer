@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 gradio==4.44.1
 huggingface_hub==0.23.5
 numpy
@@ -13,3 +14,32 @@ chromadb
 accelerate
 joblib
 wikipedia-api
+=======
+gradio
+numpy
+scipy
+pandas
+scikit-learn
+
+transformers
+spacy
+torch
+sentence-transformers
+
+joblib
+
+# LLM & Hugging Face
+sentencepiece
+accelerate
+
+chromadb
+
+torch
+pickle
+wikipedia-api
+requests
+
+# Utilities
+regex
+tqdm
+>>>>>>> 2feedb7dcbe1de675e9a6b293309e91dc5b7597b
