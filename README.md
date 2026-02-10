@@ -1,3 +1,5 @@
+# 🧠 AI News Credibility Analyzer
+
 ---
 title: AI News Credibility Analyzer
 emoji: 🧠
@@ -11,8 +13,6 @@ license: mit
 python_version: "3.10"
 ---
 
-
-# 🧠 AI News Credibility Analyzer
 
 # Hybrid ML + Explainable AI + Semantic Memory + LLM Reasoning
 
