@@ -131,7 +131,7 @@ python -m spacy download en_core_web_sm
 
 ### Then open:
 
-http://127.0.0.1:7860
+http://127.x.x.x:xxxx
 
 
 ## 📊 Performance Metrics
